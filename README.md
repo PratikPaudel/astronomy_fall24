@@ -23,7 +23,7 @@ The Andromeda Galaxy (M31) was captured with a 15-minute exposure time. The imag
 
 ### M52 - Star Cluster
 <img src="images/M52-long-exposure-unistellar.png" alt="M52 Star Cluster - Long Exposure" width="400"/><br>
-Photo credit: Pratik Paudel in collaboration with Dr.Hyunsung Jun<br>
+Photo credit: Pratik Paudel in collaboration with Dr. Hyunsung Jun<br>
 M52 is an open star cluster in the constellation Cassiopeia. Long exposures were taken for the visibility of cluster members.
 
 ### M27 - Dumbbell Nebula
